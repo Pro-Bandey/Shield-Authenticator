@@ -24,6 +24,9 @@
     "default_title": "__MSG_extShortName__",
     "default_popup": "view/popup.html"
   },
+  "side_panel": {
+    "default_path": "view/sidepanel.html"
+  },
 
   "commands": {
     "_execute_action": {},
@@ -57,7 +60,14 @@
     "pages": ["view/argon.html"]
   },
 
-  "permissions": ["activeTab", "storage", "identity", "alarms", "scripting"],
+  "permissions": [
+    "activeTab",
+    "storage",
+    "identity",
+    "alarms",
+    "sidePanel",
+    "scripting"
+  ],
 
   "optional_permissions": ["clipboardWrite", "contextMenus"],
 
