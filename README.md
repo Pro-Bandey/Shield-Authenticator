@@ -1,7 +1,5 @@
 # Shield Authenticator
 
-[![Build Status](https://travis-ci.com/Authenticator-Extension/Authenticator.svg?branch=dev)](https://travis-ci.com/Authenticator-Extension/Authenticator)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/authenticator-firefox/localized.svg)](https://crowdin.com/project/authenticator-firefox)
 <img align="right" width="100" height="100" src="src/icon.png">
 
 ---
@@ -9,6 +7,7 @@
 > Generate secure 2-step verification (2FA) codes directly in your browser.
 
 ## 🌐 Supported Browsers
+
 
 Shield Authenticator is available for:
 
